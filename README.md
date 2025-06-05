@@ -64,6 +64,10 @@ Use external public APIs.
 
 Handle user input.
 
+#OUTPUT
+
+
+
 Dynamically update webpage content.
 
 Manage asynchronous API calls using modern JavaScript.
