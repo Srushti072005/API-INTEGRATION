@@ -71,4 +71,10 @@ Manage asynchronous API calls using modern JavaScript.
 This project is ideal for beginners learning web development and API integration.
 
 
+#OUTPUT
+
+![task 1](https://github.com/user-attachments/assets/9582cc13-acd9-47c9-8d7a-6dc2a7db7ec8)
+
+
+
 
