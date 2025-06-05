@@ -64,12 +64,11 @@ Use external public APIs.
 
 Handle user input.
 
-#OUTPUT
-
-
-
 Dynamically update webpage content.
 
 Manage asynchronous API calls using modern JavaScript.
 
 This project is ideal for beginners learning web development and API integration.
+
+
+
